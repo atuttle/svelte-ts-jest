@@ -5,4 +5,4 @@ I wanted to use TDD to teach myself TypeScript and Svelte, but I ran into some p
 I'm planning to write a simple dice-game to have something more interesting than a ToDo list to work on. Let's call it `DiceWar`.
 
 1. `npx degit sveltejs/template dicewar`
-2.
+2. `node scripts/setupTypeScript.js`
